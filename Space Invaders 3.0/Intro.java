@@ -45,7 +45,7 @@ class Intro extends Space {
         g.setFont(new Font("Bold", Font.PLAIN, 10 + i));
         g.drawString("          by Lorenzo Cataldi", 110 + i + i, 110 + i + i);
         g.dispose();
-        strategy.show(); //f
+        strategy.show();
 
     }
 }
